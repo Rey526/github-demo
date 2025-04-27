@@ -1,3 +1,0 @@
-This is a text file named level-3 that I created using vim 
-
-
